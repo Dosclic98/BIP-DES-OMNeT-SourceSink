@@ -1,0 +1,3 @@
+package sourcesink;
+
+@license(LGPL);
